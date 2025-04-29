@@ -61,7 +61,7 @@ const Footer = () => {
         </div>
         
         <div className="mt-16 text-xs text-white/70">
-          <p>SEEN THE LABEL 2023 · MADE WITH ❤️ IN CYBERSPACE</p>
+          <p>SEEN THE LABEL 2023 · MADE by 3a7anton</p>
         </div>
       </div>
     </footer>
